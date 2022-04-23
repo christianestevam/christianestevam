@@ -2,7 +2,7 @@
  - 👨🏻‍💻 I see my purpose in technology and I love working on projects that challenge my creativity!
  - 👨🏻‍🎓 Currently graduating in Information Systems at the Federal University of Ceará with a focus on Software Engineering and Business Intelligence
  - 🎯 Dedicated to improving my codes in JavaScript, TypeScript, React and NodeJS
- - ⚡ Talk to me about code, music, psychology, bodybuilding....
+ - ⚡ Talk to me about code, music, psychology, open source....
  
   
  
