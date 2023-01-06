@@ -2,7 +2,7 @@
  - 👨🏻‍💻 I love working on projects that challenge my creativity!
  - 👨🏻‍🎓 Currently graduating in Information Systems at the Federal University of Ceará
  - 🎯 I have 2 years of professional experience with software development, working with back-end and front-end
- - ⚡ Talk to me about code, music, psychology, open source....
+ - ⚡ I am a fast learner and determined to solve problems, always thinking of solid solutions to solve problems in the best way.
  
 
  <div style="display: inline_block"><br>
