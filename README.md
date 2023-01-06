@@ -4,9 +4,10 @@
  - 🎯 Dedicated to improving my codes in JavaScript, TypeScript, C++, Python and NodeJS
  - ⚡ Talk to me about code, music, psychology, open source....
  
- <div style="display: inline_block"><br>
+
     
  ## ⚙️ Tech Stack
+ <div style="display: inline_block"><br>
    
    <img alt="Christian-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img alt="Christian-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
