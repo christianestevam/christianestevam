@@ -1,7 +1,7 @@
  ## 👋 Hello, I'm Christian Estevam!
- - 👨🏻‍💻 I see my purpose in technology and I love working on projects that challenge my creativity!
+ - 👨🏻‍💻 I love working on projects that challenge my creativity!
  - 👨🏻‍🎓 Currently graduating in Information Systems at the Federal University of Ceará
- - 🎯 Dedicated to improving my codes in JavaScript, TypeScript, C++, Python and NodeJS
+ - 🎯 I have 2 years of professional experience with software development, working with back-end and front-end
  - ⚡ Talk to me about code, music, psychology, open source....
  
 
