@@ -10,9 +10,9 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianestevam&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
- ## ⚙️ Tech Stack 
-  <div style="display: inline_block"><br>
-   
+ <div style="display: inline_block"><br>
+ 
+  ## ⚙️ Tech Stack 
    <img alt="Christian-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img alt="Christian-r" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img alt="Christian-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -29,7 +29,7 @@
    
    
  ## 💡 Contact me
-  <a target="_blank" href="https://www.linkedin.com/in/christian-estevam-barbosa/">
+<a target="_blank" href="https://www.linkedin.com/in/christian-estevam-barbosa/">
   <img align="left" alt="LinkdeIN" width="32px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" />
 </a>
 <a target="_blank" href="mailto:christianestevam@alu.ufc.br">
@@ -37,9 +37,3 @@
 </a>
 </br>
    
-   
-   
-   
-   
-   
-  
