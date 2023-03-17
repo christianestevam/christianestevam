@@ -4,12 +4,6 @@
  - 🎯 I have 2 years of professional experience with software development, working with back-end and front-end
  - ⚡ I am a fast learner and determined to solve problems, always thinking of solid solutions to solve problems in the best way.
  
-<div align="center">
-  <a href="https://github.com/christianestevam">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=christianestevam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianestevam&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- 
  <div style="display: inline_block"><br>
  
   ## ⚙️ Tech Stack 
