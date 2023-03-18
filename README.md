@@ -4,7 +4,7 @@
  - 🎯 I have 2 years of professional experience with software development, working with back-end and front-end
  - ⚡ I am a fast learner and determined to solve problems, always thinking of solid solutions to solve problems in the best way.
  
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
  
   ## ⚙️ Tech Stack 
    <img alt="Christian-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
