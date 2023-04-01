@@ -1,4 +1,4 @@
- ## 👋 Hello, I'm Christian Estevam!
+ ## Hi there, I'm Christian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
  - 👨🏻‍💻 I love working on projects that challenge my creativity!
  - 👨🏻‍🎓 Currently graduating in Information Systems at the Federal University of Ceará
  - 🎯 I have 2 years of professional experience with software development, working with back-end and front-end
