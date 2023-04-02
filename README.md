@@ -1,7 +1,7 @@
  ## Hi there, I'm Christian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
  - 👨🏻‍💻 I love working on projects that challenge my creativity!
  - 👨🏻‍🎓 Currently graduating in Information Systems at the Federal University of Ceará
- - 🎯 I have 2 years of professional experience with software development, working with back-end and front-end
+ - 🎯 I have 3 years of professional experience with software development, working with back-end and front-end
  - ⚡ I am a fast learner and determined to solve problems, always thinking of solid solutions to solve problems in the best way.
  - 🖥️ I'm currently working at NPI - Center for Practice in Informatics in the back-end area with system development, maintenance, refactoring and unit testing
  
