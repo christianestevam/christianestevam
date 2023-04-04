@@ -24,7 +24,7 @@
    <img alt="Christian-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
    
    
- ## 💡 Contact me
+ ## 📬 Get in Touch!
 <a target="_blank" href="https://www.linkedin.com/in/christian-estevam-barbosa/">
   <img align="left" alt="LinkdeIN" width="32px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" />
 </a>
