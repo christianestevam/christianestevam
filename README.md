@@ -1,7 +1,7 @@
  ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hi there, I'm Christian!
  
 - 🧠 As a self-taught Software Enginner, I am currently pursuing my degree in Information Systems at the Federal University of Ceará. With three years of professional experience in both back-end and front-end development, I possess a well-rounded set of hard and soft skills that allow me to adapt to new challenges with ease.
-- 🧑🏻‍💻 I currently work at NPI - Center for Practice in Informatics, where I contribute to system development, maintenance, refactoring, and unit testing. Overall, I am confident in my ability to tackle complex projects and deliver exceptional results, and I am eager to take on new opportunities that will allow me to continue to grow as a software enginner.
+- 🧑🏻‍💻 I currently work at NPI - Center for Practice in Informatics, where I contribute to system development, maintenance, refactoring, and unit testing. Overall, I am confident in my ability to tackle complex projects and deliver exceptional results, and I am eager to take on new opportunities that will allow me to continue to grow as a Software Enginner.
  
  <div style="display: inline_block">
  
