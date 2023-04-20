@@ -1,7 +1,7 @@
  ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hi there, I'm Christian!
  
-- 🧠 As a self-taught Software Enginner, I am currently pursuing my degree in Information Systems at the Federal University of Ceará. With three years of professional experience in both back-end and front-end development, I possess a well-rounded set of hard and soft skills that allow me to adapt to new challenges with ease.
-- 🧑🏻‍💻 Overall, I am confident in my ability to tackle complex projects and deliver exceptional results, and I am eager to take on new opportunities that will allow me to continue to grow as a Software Enginner.
+- 🧠 As a self-taught Software Engineer, I am currently pursuing my degree in Information Systems at the Federal University of Ceará. Throughout my career, I have gained experience in both backend and frontend technologies, including HTML/CSS, JS, React, Node.js, Python, Java, and more. Currently, I am focused on the Java language and related technologies such as SpringBoot, Kafka etc... . I am always eager to learn and am currently studying for my AWS Certified Solutions Architect ‒ Associate certification.
+- 🧑🏻‍💻 In addition to my technical skills, I pride myself on being a communicative team player who values a positive work environment. Overall, I am confident in my ability to tackle complex projects and deliver exceptional results, and I am eager to take on new opportunities that will allow me to continue to grow as a Software Engineer. My ultimate goal is to contribute more in the academic area while continuing to grow in my career and become a better person along the way.
  
  <div style="display: inline_block">
  
