@@ -1,18 +1,18 @@
- ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hi there, I'm Christian!
-<blockquote>
-  <p><i>
-As a self-taught Software Engineer pursuing a degree in Information Systems at the Federal University of Ceará, I have gained extensive experience working with both backend and frontend technologies. Currently, my focus is on the Java language and related technologies, including SpringBoot and Kafka. I am always eager to learn and am currently studying for my AWS Certified Solutions Architect ‒ Associate certification. In addition to my technical skills, I pride myself on being a communicative team player who values a positive work environment. Overall, I am confident in my ability to tackle complex projects and deliver good results, and I am eager to take on new opportunities that will allow me to continue to grow as a Software Engineer. My goal is to contribute more in the academic area while continuing to grow in my career and become a better person along the way.
-</i></p>
-</blockquote>
+ ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hi there, I'm Christian Estevam!
 
-## 👨🏻‍💻 I mainly code using
+  <p><i>
+I'm a Brazilian boy who is always eager to learn and passionate about technology, coding, and applying knowledge to solve problems. My journey in software development began in 2020, and since then, I have actively contributed to building large-scale and resilient applications. My expertise lies in designing, coding, and testing complex systems, and I take pride in taking ownership of core components in the projects I work on. With a strong commitment to continuous growth and improvement, I strive to make a positive impact in the world of technology through my work.
+
+  </i></p>
+
+
+### 👨🏻‍💻 Experience with
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
@@ -30,7 +30,7 @@ As a self-taught Software Engineer pursuing a degree in Information Systems at t
  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
  </div>
 
-## 📬 Get in Touch!
+### 📬 Get in Touch!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-estevam-barbosa/)
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianestevamb@gmail.com)
