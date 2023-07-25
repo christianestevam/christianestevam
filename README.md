@@ -1,7 +1,7 @@
  ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hi there, I'm Christian Estevam!
 
   <p><i>
-I'm a Brazilian currently pursuing my education in Information Systems at the Federal University of Ceará. I'm always eager to learn and passionate about technology, coding, and applying knowledge to solve problems. My journey in software development began in 2020, and since then, I have actively contributed to building large-scale and resilient applications. My expertise is in the design, coding and testing of complex systems, and I am proud to take charge of the core components of the projects I work on. With a strong commitment to continuous growth and improvement, I strive to make a positive impact in the world of technology through my work.
+I'm a Developer from Brazil 🇧🇷 currently pursuing my education in Information Systems at the Federal University of Ceará. I'm always eager to learn and passionate about technology, coding, and applying knowledge to solve problems. My journey in software development began in 2020, and since then, I have actively contributed to building large-scale and resilient applications. My expertise is in the design, coding and testing of complex systems, and I am proud to take charge of the core components of the projects I work on. With a strong commitment to continuous growth and improvement, I strive to make a positive impact in the world of technology through my work.
 
   </i></p>
 
