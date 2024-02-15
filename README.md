@@ -1,12 +1,11 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hi there, I'm Christian Estevam! </h2>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hi there, I'm Christian Estevam! </h2>
 
   <p><i>
 I'm a Developer from Brazil 🇧🇷 currently pursuing my education in Information Systems at the Federal University of Ceará. I'm always eager to learn and passionate about technology, coding, and applying knowledge to solve problems. My journey in software development began in 2020, and since then, I have actively contributed to building large-scale and resilient applications. My expertise is in the design, coding and testing of complex systems, and I am proud to take charge of the core components of the projects I work on. With a strong commitment to continuous growth and improvement, I strive to make a positive impact in the world of technology through my work.
 
   </i></p>
 
-<h2 align="center"> 👨🏻‍💻 Experience with </h2>
-<div align="center">
+## 👨🏻‍💻 Experience with 
 <div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -28,13 +27,9 @@ I'm a Developer from Brazil 🇧🇷 currently pursuing my education in Informat
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
  </div>
- </div>
- <h2 align="center"> 📬 Get in Touch! </h2>
+ 
+ ##  📬 Get in Touch! 
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-estevam-barbosa/)
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianestevamb@gmail.com)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/christianestevam/)
-
-</div>
